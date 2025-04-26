@@ -1,3 +1,5 @@
+## Deep Learning Final Project - Exercise Pose Analysis
+
 ### Introduction
 Understanding and analyzing human movement is a growing area of interest in sports science, physical therapy, and computer vision. In particular, form analysis during exercise offers the potential to improve safety, performance, and personalization of training. Traditionally, such analysis requires full video interpretation, which is computationally expensive and prone to noise. A promising alternative is to rely on pose estimation, which reduces a high-dimensional video down to key joint coordinates.
 
